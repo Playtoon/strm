@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="00001" tvg-name="Kickboxer (1989)" tvg-logo="" group-title="ACCION", Kickboxer (1989)
+plugin://plugin.onedrive/?action=play&item_id=90DBF23B0A7787DC%2112643&item_driveid=90dbf23b0a7787dc&driveid=90dbf23b0a7787dc&content_type=video
+#EXTINF:-1 tvg-id="00002" tvg-name="Kickboxer 2 (1991)" tvg-logo="" group-title="ACCION", Kickboxer 2 (1991)
+plugin://plugin.onedrive/?action=play&item_id=90DBF23B0A7787DC%2112644&item_driveid=90dbf23b0a7787dc&driveid=90dbf23b0a7787dc&content_type=video
+#EXTINF:-1 tvg-id="00003" tvg-name="Kickboxer 3 (1992)" tvg-logo="" group-title="ACCION", Kickboxer 3 (1992)
+plugin://plugin.onedrive/?action=play&item_id=90DBF23B0A7787DC%2112646&item_driveid=90dbf23b0a7787dc&driveid=90dbf23b0a7787dc&content_type=video
+#EXTINF:-1 tvg-id="00004" tvg-name="Kickboxer 4 (1994)" tvg-logo="" group-title="ACCION", Kickboxer 4 (1994)
+plugin://plugin.onedrive/?action=play&item_id=90DBF23B0A7787DC%2112645&item_driveid=90dbf23b0a7787dc&driveid=90dbf23b0a7787dc&content_type=video
+#EXTINF:-1 tvg-id="00005" tvg-name="Kickboxer 5 (1995)" tvg-logo="" group-title="ACCION", Kickboxer 5 (1995)
+plugin://plugin.onedrive/?action=play&item_id=90DBF23B0A7787DC%2112647&item_driveid=90dbf23b0a7787dc&driveid=90dbf23b0a7787dc&content_type=video
+#EXTINF:-1 tvg-id="00006" tvg-name="Kickboxer Vengeance (2016)" tvg-logo="" group-title="ACCION", Kickboxer Vengeance (2016)
+plugin://plugin.onedrive/?action=play&item_id=90DBF23B0A7787DC%2112648&item_driveid=90dbf23b0a7787dc&driveid=90dbf23b0a7787dc&content_type=video
+#EXTINF:-1 tvg-id="00007" tvg-name="Kickboxer Represalias (2018)" tvg-logo="" group-title="ACCION", Kickboxer Represalias (2018)
+plugin://plugin.onedrive/?action=play&item_id=90DBF23B0A7787DC%2112649&item_driveid=90dbf23b0a7787dc&driveid=90dbf23b0a7787dc&content_type=video
